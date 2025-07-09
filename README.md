@@ -1,7 +1,7 @@
 <!-- Header Animation from Ashwani's style -->
-[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)]
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi 👋, I'm Rishikesh Ravindrakumar Shendkar</h1>
+<h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">Welcome to my GitHub! I’m a passionate <strong>Senior Team Lead</strong> specializing in automation, cyber‑security, and full‑stack development. I architect scalable solutions that untangle complexity and secure critical workflows.</h3>
 
 <img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/bd/4e/d3/bd4ed327189c2a56695beb91cd534570.gif">  
