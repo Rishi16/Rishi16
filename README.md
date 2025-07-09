@@ -12,37 +12,22 @@
 ### 🛠️ Skills & Technologies
 
 - **Languages:**  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat-square)  
-  ![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square)
 
 - **Automation & SOAR:**  
-  ![StackStorm](https://img.shields.io/badge/-StackStorm-4BAF4F?logo=stackstorm&logoColor=white&style=flat-square)  
-  ![CDC](https://img.shields.io/badge/-CDC-0A0A0A?logo=data?&logoColor=white&style=flat-square)  
-  ![Google SecOps](https://img.shields.io/badge/-Google_SecOps-4285F4?logo=google&logoColor=white&style=flat-square)
+  ![StackStorm](https://img.shields.io/badge/StackStorm-4BAF4F?logo=stackstorm&logoColor=white&style=flat-square) ![CDC](https://img.shields.io/badge/CDC-0A0A0A?logo=data:image/svg%2bxml;base64,YOUR_BASE64_CDC_LOGO&logoColor=white&style=flat-square) ![Google SecOps](https://img.shields.io/badge/Google_SecOps-4285F4?logo=google&logoColor=white&style=flat-square)
 
 - **Frameworks:**  
-  ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)  
-  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)  
-  ![Celery](https://img.shields.io/badge/-Celery-3AB795?logo=python&logoColor=white&style=flat-square)
+  ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat-square) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=flat-square) ![Celery](https://img.shields.io/badge/Celery-3AB795?logo=python&logoColor=white&style=flat-square)
 
 - **Cloud & DevOps:**  
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
-  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)  
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)    
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square)  
-  ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square) ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?logo=gitlab&logoColor=white&style=flat-square) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=flat-square) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square) ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white&style=flat-square)
 
 - **Security & Data:**  
-  ![Splunk](https://img.shields.io/badge/-Splunk-FBA91B?logo=splunk&logoColor=white&style=flat-square)  
-  ![Azure Sentinel](https://img.shields.io/badge/-Azure_Sentinel-0078D4?logo=microsoftazure&logoColor=white&style=flat-square)  
-  ![QRadar](https://img.shields.io/badge/-QRadar-0072C6?logo=ibm&logoColor=white&style=flat-square)  
-  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)  
-  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+  ![Splunk](https://img.shields.io/badge/Splunk-FBA91B?logo=splunk&logoColor=white&style=flat-square) ![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-0078D4?logo=microsoftazure&logoColor=white&style=flat-square) ![QRadar](https://img.shields.io/badge/QRadar-0072C6?logo=ibm&logoColor=white&style=flat-square) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 
 - **Frontend / Mobile:**  
-  ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=flat-square)  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=flat-square) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
 
 
 ---
